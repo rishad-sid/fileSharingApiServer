@@ -1,0 +1,26 @@
+{
+  "files": [
+    {
+      "originalname": "meldCX code test.pdf",
+      "mimetype": "application/pdf",
+      "destination": "/file-sharing-api-server/uploads // full path of the directory",
+      "filename": "file-0123456789.pdf",
+      "path": "/file-sharing-api-server/uploads // full path of the directory/file-0123456789.pdf",
+      "privatekey": "cd9f68c4-89c5-1df3-bd45-93154073c975",
+      "publickey": "2b6fc370-6b43-3023-adac-416c64933835",
+      "createdat": 1681821703643,
+      "updatedat": 1681821703643
+    },
+    {
+      "originalname": "meldCX code test.pdf",
+      "mimetype": "application/pdf",
+      "destination": "/file-sharing-api-server/uploads // full path of the directory",
+      "filename": "file-0123456789.pdf",
+      "path": "/file-sharing-api-server/uploads // full path of the directory/file-0123456789.pdf",
+      "privatekey": "cd9f68c4-89c5-1df3-bd45-93154073c975",
+      "publickey": "2b6fc370-6b43-3023-adac-416c64933835",
+      "createdat": 1681822331575,
+      "updatedat": 1681822331575
+    }
+  ]
+}
